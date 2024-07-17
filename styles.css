@@ -2,3 +2,15 @@
     border: 1px solid black;
 }
 
+body {
+    height: 900;
+    width: 1300;
+}
+
+#tooltip {
+    opacity: 0;
+}
+
+.ticks {
+    color: red
+}
